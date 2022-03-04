@@ -1,9 +1,27 @@
 \documentclass[11pt]{book}
 
 \usepackage{hyperref}
+\usepackage{caption}
+\usepackage{graphicx}
+                
+\usepackage{calc}
+                
+\newlength{\imgwidth}
+                
+\newcommand\scaledgraphics[2]{%
+                
+\settowidth{\imgwidth}{\includegraphics{#1}}%
+                
+\setlength{\imgwidth}{\minof{\imgwidth}{#2\textwidth}}%
+                
+\includegraphics[width=\imgwidth,height=\textheight,keepaspectratio]{#1}%
+                
+}
+            
+\usepackage{tabu}
 \usepackage{docmute}
-\title{On the Economy of Machinery and Manufactures}
-\author{ Charles Babbage}
+\title{Crisis Management}
+\author{Heidrun Böhm; Detlef Cwojdzinski; Ulrike Grote; Kalle Heitkötter; Christine Knauer; Ingrid Möller; Guido Pukropski; Julia Sasse; Tanja Schmidt; Ute Siering; Karlin Stark; Katrin Steul; Peter Tinnemann. Editors: Ute Teichert; Peter Tinnemann.}
 \begin{document}
 \maketitle
 \def\title#1{\chapter{#1}}
@@ -12,13 +30,41 @@
 \part{Front matter}
         \input{chapter-1}
         
+\part{Chapters}
         \input{chapter-2}
         
-\part{Chapters}
         \input{chapter-3}
         
-\part{Back matter}
         \input{chapter-4}
+        
+        \input{chapter-5}
+        
+        \input{chapter-6}
+        
+        \input{chapter-7}
+        
+        \input{chapter-8}
+        
+\part{Back matter}
+        \input{chapter-9}
+        
+        \input{chapter-10}
+        
+        \input{chapter-11}
+        
+        \input{chapter-12}
+        
+        \input{chapter-13}
+        
+        \input{chapter-14}
+        
+        \input{chapter-15}
+        
+        \input{chapter-16}
+        
+        \input{chapter-17}
+        
+        \input{chapter-18}
         
 
 \end{document}
