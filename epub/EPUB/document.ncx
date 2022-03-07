@@ -17,7 +17,7 @@
       <navLabel><text>Front matter</text></navLabel>
       <content src="document-1.xhtml" />
       <navPoint id="t_1_0-1">
-        <navLabel><text>CRI000: Front Matter</text></navLabel>
+        <navLabel><text>Front Matter</text></navLabel>
         <content src="document-1.xhtml#_1_0" />
         <navPoint id="tH353005-1">
           <navLabel><text>Title page</text></navLabel>
@@ -81,7 +81,7 @@
       <navLabel><text>Chapters</text></navLabel>
       <content src="document-2.xhtml" />
       <navPoint id="t_2_0-2">
-        <navLabel><text>CRI001: Definitions</text></navLabel>
+        <navLabel><text>Definitions</text></navLabel>
         <content src="document-2.xhtml#_2_0" />
         <navPoint id="tH3878242-2">
           <navLabel><text>Outbreak</text></navLabel>
@@ -101,7 +101,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_3_0-3">
-        <navLabel><text>CRI002: Operational planning</text></navLabel>
+        <navLabel><text>Operational planning</text></navLabel>
         <content src="document-3.xhtml#_3_0" />
         <navPoint id="tH8776715-3">
           <navLabel><text>Objectives of successful operational planning</text></navLabel>
@@ -149,7 +149,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_4_0-4">
-        <navLabel><text>CRI003: Working in teams</text></navLabel>
+        <navLabel><text>Working in teams</text></navLabel>
         <content src="document-4.xhtml#_4_0" />
         <navPoint id="tH6850322-4">
           <navLabel><text>Importance of a work/crisis team</text></navLabel>
@@ -197,7 +197,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_5_0-5">
-        <navLabel><text>CRI004: Communications</text></navLabel>
+        <navLabel><text>Communications</text></navLabel>
         <content src="document-5.xhtml#_5_0" />
         <navPoint id="tH9313720-5">
           <navLabel><text>Risk communication</text></navLabel>
@@ -225,7 +225,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_6_0-6">
-        <navLabel><text>CRI005: Scenarios – CBRN</text></navLabel>
+        <navLabel><text>Scenarios – CBRN</text></navLabel>
         <content src="document-6.xhtml#_6_0" />
         <navPoint id="tH2656935-6">
           <navLabel><text>Introduction</text></navLabel>
@@ -241,7 +241,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_7_0-7">
-        <navLabel><text>CRI006: B scenarios</text></navLabel>
+        <navLabel><text>B scenarios</text></navLabel>
         <content src="document-7.xhtml#_7_0" />
         <navPoint id="tH9415283-7">
           <navLabel><text>Various B scenarios</text></navLabel>
@@ -313,7 +313,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_8_0-8">
-        <navLabel><text>CRI010: Toolbox</text></navLabel>
+        <navLabel><text>Toolbox</text></navLabel>
         <content src="document-8.xhtml#_8_0" />
         <navPoint id="tH8998341-8">
           <navLabel><text>Technical measures</text></navLabel>
@@ -457,11 +457,11 @@
       <navLabel><text>Back matter</text></navLabel>
       <content src="document-9.xhtml" />
       <navPoint id="t_9_0-9">
-        <navLabel><text>CRI11Annex - Abbreviations</text></navLabel>
+        <navLabel><text>Annex - Abbreviations</text></navLabel>
         <content src="document-9.xhtml#_9_0" />
       </navPoint>
       <navPoint id="t_10_0-10">
-        <navLabel><text>CRI11Annex - Checklist for public health offices in crisis mode</text></navLabel>
+        <navLabel><text>Annex - Checklist for public health offices in crisis mode</text></navLabel>
         <content src="document-10.xhtml#_10_0" />
         <navPoint id="tH1727143-10">
           <navLabel><text>Alerts</text></navLabel>
@@ -505,7 +505,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_11_0-11">
-        <navLabel><text>CRI11Annex – Checklist for infrastructure and resources in the crisis team</text></navLabel>
+        <navLabel><text>Annex – Checklist for infrastructure and resources in the crisis team</text></navLabel>
         <content src="document-11.xhtml#_11_0" />
         <navPoint id="tH4260866-11">
           <navLabel><text>Rooms</text></navLabel>
@@ -533,7 +533,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_12_0-12">
-        <navLabel><text>CRI11Annex – Checklist as a planning guide for public health offices</text></navLabel>
+        <navLabel><text>Annex – Checklist as a planning guide for public health offices</text></navLabel>
         <content src="document-12.xhtml#_12_0" />
         <navPoint id="tH2442121-12">
           <navLabel><text>Coordination</text></navLabel>
@@ -565,7 +565,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_13_0-13">
-        <navLabel><text>CRI11Annex – Checklist as a planning guide for hospitals</text></navLabel>
+        <navLabel><text>Annex – Checklist as a planning guide for hospitals</text></navLabel>
         <content src="document-13.xhtml#_13_0" />
         <navPoint id="tH7945097-13">
           <navLabel><text>Background</text></navLabel>
@@ -609,7 +609,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_14_0-14">
-        <navLabel><text>CRI11Annex – Checklist for communications</text></navLabel>
+        <navLabel><text>Annex – Checklist for communications</text></navLabel>
         <content src="document-14.xhtml#_14_0" />
         <navPoint id="tH3683887-14">
           <navLabel><text>Selecting the form of communication</text></navLabel>
@@ -649,11 +649,11 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_15_0-15">
-        <navLabel><text>CRI11Annex – Template for mission diary</text></navLabel>
+        <navLabel><text>Annex – Template for mission diary</text></navLabel>
         <content src="document-15.xhtml#_15_0" />
       </navPoint>
       <navPoint id="t_16_0-16">
-        <navLabel><text>CRI11Annex – Template for checklist format</text></navLabel>
+        <navLabel><text>Annex – Template for checklist format</text></navLabel>
         <content src="document-16.xhtml#_16_0" />
         <navPoint id="tH9231130-16">
           <navLabel><text>Checklist – TITLE (template for checklist format)</text></navLabel>
@@ -669,7 +669,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_17_0-17">
-        <navLabel><text>CRI11Annex – Websites</text></navLabel>
+        <navLabel><text>Annex – Websites</text></navLabel>
         <content src="document-17.xhtml#_17_0" />
         <navPoint id="tH8354250-17">
           <navLabel><text>Websites</text></navLabel>
@@ -681,7 +681,7 @@
         </navPoint>
       </navPoint>
       <navPoint id="t_18_0-18">
-        <navLabel><text>CRIbib Bibliography</text></navLabel>
+        <navLabel><text>Bibliography</text></navLabel>
         <content src="document-18.xhtml#_18_0" />
         <navPoint id="tH8291970-18">
           <navLabel><text>Communications</text></navLabel>
